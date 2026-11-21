@@ -148,7 +148,7 @@ export default function Home() {
           <h1>Get better.<br /><span>Day by day.</span></h1>
           <p className="hero-description">PaceUp helps you see what matters: how you train, how you grow, and how close you are to your goals.</p>
           <div className="hero-actions">
-            <a className="button button-primary" href="#start">Start your journey <ArrowIcon /></a>
+            <a className="button button-primary" href="/home">Start your journey <ArrowIcon /></a>
             <a className="text-link" href="#possibilities">Explore features <span>↓</span></a>
           </div>
           <div className="social-proof">

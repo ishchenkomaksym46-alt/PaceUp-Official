@@ -32,6 +32,7 @@ export default function SignupPage() {
                 setError('Error signing up. No response from server');
             } else {
                 console.log('Signup successful:', response.data);
+                window.dispatchEvent(new CustomEvent('auth-state-changed', { detail: true }));
                 router.push('/home');
             }
         } catch (err) {

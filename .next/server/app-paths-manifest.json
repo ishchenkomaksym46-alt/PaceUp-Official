@@ -1,4 +1,8 @@
 {
+  "/(public)/auth/signin/page": "app/(public)/auth/signin/page.js",
+  "/(public)/auth/signup/page": "app/(public)/auth/signup/page.js",
+  "/(public)/home/[section]/page": "app/(public)/home/[section]/page.js",
+  "/(public)/home/page": "app/(public)/home/page.js",
   "/_global-error/page": "app/_global-error/page.js",
   "/_not-found/page": "app/_not-found/page.js",
   "/favicon.ico/route": "app/favicon.ico/route.js",
