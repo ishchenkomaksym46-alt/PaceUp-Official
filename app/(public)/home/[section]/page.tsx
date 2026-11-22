@@ -4,6 +4,7 @@ const sectionTitles: Record<string, string> = {
     workouts: "Workouts",
     progress: "Progress",
     races: "Competitions",
+    monitoring: "Monitoring (Premium)",
     settings: "Settings",
 };
 

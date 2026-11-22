@@ -434,3 +434,27 @@ button, a { -webkit-tap-highlight-color: transparent; }
     white-space: nowrap;
   }
 }
+
+.trainings-checks {
+  display: grid;
+}
+
+.header-actions {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.notification-button {
+  display: grid;
+  place-items: center;
+  padding: 6px;
+  border: 0;
+  color: var(--text);
+  background: transparent;
+  cursor: pointer;
+}
+
+.notification-button:hover {
+  color: var(--primary);
+}

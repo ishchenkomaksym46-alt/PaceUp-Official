@@ -22,6 +22,7 @@ export default function HomePage() {
     const [loading, setLoading] = useState<boolean>(false);
     const router = useRouter();
     const [username, setUsername] = useState<string>('');
+    const [isSetUp, setIsSetUp] = useState<boolean>(false);
 
     useEffect(() => {
         const checkAuthStatus = async () => {
@@ -83,12 +84,40 @@ export default function HomePage() {
             }
         }
 
-        checkAuthStatus().then(r => getUsername());
+        const isSetUpComplete = async () => {
+            try {
+                const response: AxiosXHR<any> = await api.get('/user/check-setup', { withCredentials: true });
+
+                if(!response || response.status !== 200) {
+                    setError('Unexpected error occurred while checking setup');
+                    return;
+                } else {
+                    if(response.data.setup) {
+                        setIsSetUp(true);
+                    } else {
+                        setIsSetUp(false);
+                    }
+                }
+            } catch (e) {
+                setError(`Error occurred while checking your account: ${e instanceof Error ? e.message : 'Unknown error'}`)
+            }
+        }
+
+        checkAuthStatus().then(() => getUsername());
+        isSetUpComplete();
     }, []);
 
     return (
         <div>
             <h1 className="text-4xl font-bold">Welcome back! {username}</h1>
+
+            {!isSetUp && (
+                <div>
+                    <h1 className="text-2xl">Let's first set up your account!</h1>
+
+                    <button className={"button button-primary cursor-pointer"} onClick={() => router.push('/set-up')}>Set Up!</button>
+                </div>
+            )}
 
             {error && <p>{error}</p>}
             {loading && <p>Loading...</p>}

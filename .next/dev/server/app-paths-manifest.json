@@ -1,5 +1,4 @@
 {
-  "/(public)/home/[section]/page": "app/(public)/home/[section]/page.js",
   "/(public)/home/page": "app/(public)/home/page.js",
   "/page": "app/page.js"
 }

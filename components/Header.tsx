@@ -3,6 +3,7 @@
 import {useEffect, useState} from "react";
 import {useRouter} from "next/navigation";
 import {api} from "@/lib/api";
+import { IoIosNotifications } from "react-icons/io";
 
 function Logo() {
     return (
@@ -110,6 +111,9 @@ export default function Header() {
 
                 {isLoggedIn ? (<div>
                     <button className={"nav-cta bg-red-600 cursor-pointer"} onClick={() => logout()}>Logout</button>
+                    <button type="button" className="notification-button" aria-label="Notifications" onClick={() => router.push('/notifications')}>
+                        <IoIosNotifications size={26} />
+                    </button>
                 </div>) : (<div className="header-buttons">
                     <a className="nav-cta cursor-pointer" href="/auth/signin">Sign In <ArrowIcon /></a>
                     <a className="button button-primary cursor-pointer" href="/auth/signup">Sign Up <ArrowIcon /></a>
