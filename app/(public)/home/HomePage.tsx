@@ -85,6 +85,8 @@ export default function HomePage() {
         }
 
         const isSetUpComplete = async () => {
+            setError('');
+
             try {
                 const response: AxiosXHR<any> = await api.get('/user/check-setup', { withCredentials: true });
 
@@ -103,8 +105,30 @@ export default function HomePage() {
             }
         }
 
+        const addReminder = async () => {
+            setError('');
+            const timeZone = Intl.DateTimeFormat().resolvedOptions().timeZone
+
+            console.log(timeZone);
+
+            try {
+                const response: AxiosXHR<any> = await api.post('/notifications/check-training', {
+                    timeZone,
+                }, { withCredentials: true });
+
+                if(!response || response.status !== 201) {
+                    return setError(response.data.message)
+                } else {
+                    console.log('Reminder Added!');
+                }
+            } catch (e) {
+                setError(`Error occurred while trying to add training reminder: ${e instanceof Error ? e.message : 'Unknown error'}`)
+            }
+        }
+
         checkAuthStatus().then(() => getUsername());
         isSetUpComplete();
+        addReminder();
     }, []);
 
     return (
