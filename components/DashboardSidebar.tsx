@@ -6,7 +6,6 @@ import {usePathname} from "next/navigation";
 const navigation = [
     { label: "Overview", href: "/home" },
     { label: "Workouts", href: "/home/workouts" },
-    { label: "Progress", href: "/home/progress" },
     { label: "Competitions", href: "/home/races" },
     { label: "Monitoring (Premium)", href: "/home/monitoring" },
     { label: "Settings", href: "/home/settings" },
