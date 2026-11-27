@@ -1,8 +1,12 @@
 {
   "/(public)/auth/signin/page": "/auth/signin",
   "/(public)/auth/signup/page": "/auth/signup",
-  "/(public)/home/[section]/page": "/home/[section]",
+  "/(public)/home/monitoring/page": "/home/monitoring",
   "/(public)/home/page": "/home",
+  "/(public)/home/races/page": "/home/races",
+  "/(public)/home/workouts/page": "/home/workouts",
+  "/(public)/notifications/page": "/notifications",
+  "/(public)/set-up/page": "/set-up",
   "/_global-error/page": "/_global-error",
   "/_not-found/page": "/_not-found",
   "/favicon.ico/route": "/favicon.ico",

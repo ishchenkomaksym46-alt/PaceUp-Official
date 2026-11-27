@@ -1,20 +1,153 @@
-{"timestamp":"00:00:03.794","source":"Server","level":"LOG","message":"- Cache Components enabled"}
-{"timestamp":"00:00:03.795","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
-{"timestamp":"00:00:03.795","source":"Server","level":"LOG","message":""}
-{"timestamp":"00:00:15.873","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:17.851","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:18.142","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
-{"timestamp":"00:00:18.142","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
-{"timestamp":"00:00:18.142","source":"Browser","level":"LOG","message":"User is authenticated"}
-{"timestamp":"00:00:18.209","source":"Browser","level":"LOG","message":"User is authenticated"}
-{"timestamp":"00:00:19.941","source":"Browser","level":"LOG","message":"Reminder Added!"}
-{"timestamp":"00:00:19.941","source":"Browser","level":"LOG","message":"Reminder Added!"}
-{"timestamp":"00:00:21.544","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
-{"timestamp":"00:00:21.580","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
-{"timestamp":"00:00:21.594","source":"Browser","level":"LOG","message":"User is authenticated"}
-{"timestamp":"00:00:21.628","source":"Browser","level":"LOG","message":"User is authenticated"}
-{"timestamp":"00:00:27.287","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:28.641","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
-{"timestamp":"00:00:29.093","source":"Browser","level":"LOG","message":"User is authenticated"}
-{"timestamp":"00:00:29.093","source":"Browser","level":"LOG","message":"User is authenticated"}
-{"timestamp":"00:00:59.889","source":"Server","level":"LOG","message":"✓ Compiled in 114ms"}
+{"timestamp":"00:00:02.633","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:02.634","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:02.634","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:16.150","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:27.305","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:27.744","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"00:00:27.744","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"00:00:27.744","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"00:00:27.826","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"00:00:28.494","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"00:00:28.902","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"00:00:31.562","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:00:31.603","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"00:00:31.606","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"00:00:31.606","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"00:00:40.501","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:46.743","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:00:47.128","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"00:00:47.128","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"00:00:47.128","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"00:00:47.140","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"00:00:47.634","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"00:00:49.276","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"00:00:49.277","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"00:00:49.294","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"00:00:49.295","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"00:00:52.578","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:14:08.035","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:14:22.814","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:14:23.322","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:14:23.434","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:15:00.821","source":"Server","level":"LOG","message":"✓ Compiled in 112ms"}
+{"timestamp":"01:15:01.110","source":"Browser","level":"ERROR","message":"A component is changing a controlled input to be uncontrolled. This is likely caused by the value changing from a defined to undefined, which should not happen. Decide between using a controlled or uncontrolled input element for the lifetime of the component. More info: https://react.dev/link/controlled-components "}
+{"timestamp":"01:15:01.114","source":"Server","level":"ERROR","message":"[browser] \"A component is changing a controlled input to be uncontrolled. This is likely caused by the value changing from a defined to undefined, which should not happen. Decide between using a controlled or uncontrolled input element for the lifetime of the component. More info: https://react.dev/link/controlled-components\" \"\""}
+{"timestamp":"01:15:02.987","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:15:03.378","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:15:03.378","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:15:14.929","source":"Browser","level":"LOG","message":"2026-11-28"}
+{"timestamp":"01:16:15.103","source":"Server","level":"LOG","message":"✓ Compiled in 111ms"}
+{"timestamp":"01:23:11.226","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:23:11.785","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:23:11.785","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:23:12.356","source":"Browser","level":"ERROR","message":"Each child in a list should have a unique \"key\" prop.\n\nCheck the render method of `div`. It was passed a child from RacesPage. See https://react.dev/link/warning-keys for more information. "}
+{"timestamp":"01:23:12.356","source":"Server","level":"ERROR","message":"[browser] \"Each child in a list should have a unique \\\"key\\\" prop.\\n\\nCheck the render method of `div`. It was passed a child from RacesPage. See https://react.dev/link/warning-keys for more information.\" \"\""}
+{"timestamp":"01:23:31.879","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:23:32.350","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:23:32.384","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:23:32.835","source":"Browser","level":"ERROR","message":"Each child in a list should have a unique \"key\" prop.\n\nCheck the render method of `div`. It was passed a child from RacesPage. See https://react.dev/link/warning-keys for more information. "}
+{"timestamp":"01:23:32.836","source":"Server","level":"ERROR","message":"[browser] \"Each child in a list should have a unique \\\"key\\\" prop.\\n\\nCheck the render method of `div`. It was passed a child from RacesPage. See https://react.dev/link/warning-keys for more information.\" \"\""}
+{"timestamp":"01:24:20.062","source":"Server","level":"LOG","message":"✓ Compiled in 125ms"}
+{"timestamp":"01:26:32.727","source":"Server","level":"LOG","message":"✓ Compiled in 111ms"}
+{"timestamp":"01:27:42.109","source":"Server","level":"LOG","message":"✓ Compiled in 117ms"}
+{"timestamp":"01:27:57.809","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"01:27:57.810","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"01:27:58.028","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:27:58.028","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:08.927","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:11.098","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:11.532","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:28:11.532","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:28:11.532","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:11.582","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:12.082","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:28:12.090","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:28:16.182","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"01:28:16.183","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"01:28:16.275","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:16.309","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:20.618","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:22.442","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:22.642","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:28:22.642","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:28:22.727","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:22.727","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:22.873","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:28:22.873","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:28:32.255","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"01:28:32.256","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"01:28:32.357","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:32.373","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:36.027","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:36.028","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:39.982","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:41.194","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:42.282","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:43.499","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:44.566","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:45.692","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:28:46.181","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:28:46.181","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:29:10.436","source":"Server","level":"LOG","message":"✓ Compiled in 311ms"}
+{"timestamp":"01:30:22.943","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:30:23.276","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:30:23.276","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:30:25.336","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"01:30:25.337","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"01:36:42.106","source":"Server","level":"ERROR","message":"⨯ ./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"01:36:42.107","source":"Server","level":"ERROR","message":"⨯ ./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"01:36:42.408","source":"Server","level":"LOG","message":"✓ Compiled in 206ms"}
+{"timestamp":"01:37:30.747","source":"Browser","level":"ERROR","message":"./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"01:37:30.749","source":"Server","level":"ERROR","message":"[browser] \"./app/(public)/home/monitoring/page.tsx:1:1\\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\\n> 1 | import MonitoringPage from \\\"@/app/(public)/home/monitoring/MonitoringPage\\\";\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Monitoring() {\\n  4 |     return (\\n\\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"01:37:33.949","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:40:03.588","source":"Server","level":"ERROR","message":"⨯ ./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"01:40:03.589","source":"Server","level":"ERROR","message":"⨯ ./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"01:40:03.597","source":"Server","level":"ERROR","message":"⨯ ./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"01:40:03.598","source":"Server","level":"ERROR","message":"⨯ ./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"01:40:03.601","source":"Server","level":"ERROR","message":"⨯ ./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"01:40:03.602","source":"Server","level":"ERROR","message":"⨯ ./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\n\nhttps://nextjs.org/docs/messages/module-not-found\n\n"}
+{"timestamp":"01:40:03.629","source":"Server","level":"LOG","message":"✓ Compiled in 154ms"}
+{"timestamp":"01:40:04.143","source":"Server","level":"LOG","message":"✓ Compiled in 261ms"}
+{"timestamp":"01:40:05.343","source":"Browser","level":"ERROR","message":"./app/(public)/home/monitoring/page.tsx:1:1\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\n> 1 | import MonitoringPage from \"@/app/(public)/home/monitoring/MonitoringPage\";\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  2 |\n  3 | export default function Monitoring() {\n  4 |     return (\n\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\n\nhttps://nextjs.org/docs/messages/module-not-found "}
+{"timestamp":"01:40:05.344","source":"Server","level":"ERROR","message":"[browser] \"./app/(public)/home/monitoring/page.tsx:1:1\\nError: Module not found: Can't resolve '@/app/(public)/home/monitoring/MonitoringPage'\\n> 1 | import MonitoringPage from \\\"@/app/(public)/home/monitoring/MonitoringPage\\\";\\n    | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\\n  2 |\\n  3 | export default function Monitoring() {\\n  4 |     return (\\n\\nImport map: aliased to relative './app/(public)/home/monitoring/MonitoringPage' inside of [project]/\\n\\nhttps://nextjs.org/docs/messages/module-not-found\" \"\""}
+{"timestamp":"01:49:57.665","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:50:12.236","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:50:15.169","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:50:17.682","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:50:18.082","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:50:18.082","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:50:18.082","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:50:18.129","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:50:18.589","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:50:18.589","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:50:19.033","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"01:50:19.034","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"01:50:23.437","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:53:04.887","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:53:09.193","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:53:11.170","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:53:11.506","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:53:11.507","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:53:11.507","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:53:11.647","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:53:12.666","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:53:13.224","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"01:53:13.225","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"01:53:17.371","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:53:30.130","source":"Browser","level":"LOG","message":"Logout successful!"}
+{"timestamp":"01:53:31.618","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"01:53:48.534","source":"Browser","level":"LOG","message":"1"}
+{"timestamp":"01:53:48.534","source":"Browser","level":"LOG","message":"Sign in successful!"}
+{"timestamp":"01:53:48.534","source":"Browser","level":"LOG","message":"4"}
+{"timestamp":"01:53:48.640","source":"Browser","level":"WARN","message":"Detected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\"smooth\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior"}
+{"timestamp":"01:53:48.656","source":"Server","level":"WARN","message":"[browser] \"\\u001b[33mDetected `scroll-behavior: smooth` on the `<html>` element. To disable smooth scrolling during route transitions, add `data-scroll-behavior=\\\"smooth\\\"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior\\u001b[39m\""}
+{"timestamp":"01:53:48.656","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:53:48.657","source":"Browser","level":"LOG","message":"Europe/Kyiv"}
+{"timestamp":"01:53:48.678","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:53:48.696","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:53:49.548","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:53:55.610","source":"Browser","level":"LOG","message":"Reminder Added!"}
+{"timestamp":"01:54:27.960","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:54:27.960","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:54:44.775","source":"Browser","level":"LOG","message":"User is authenticated"}
+{"timestamp":"01:54:44.775","source":"Browser","level":"LOG","message":"User is authenticated"}

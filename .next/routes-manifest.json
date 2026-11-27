@@ -21,25 +21,7 @@
     "afterFiles": [],
     "fallback": []
   },
-  "dynamicRoutes": [
-    {
-      "page": "/home/[section]",
-      "regex": "^/home/([^/]+?)(?:/)?$",
-      "routeKeys": {
-        "nxtPsection": "nxtPsection"
-      },
-      "namedRegex": "^/home/(?<nxtPsection>[^/]+?)(?:/)?$",
-      "prefetchSegmentDataRoutes": [
-        {
-          "destination": "/home/[section].segments/!KHB1YmxpYyk/home/$d$section$segment",
-          "source": "^/home/(?<nxtPsection>[^/]+?)\\.segments/!KHB1YmxpYyk/home/\\$d\\$section(?<segment>/__PAGE__\\.segment\\.rsc|\\.segment\\.rsc)(?:/)?$",
-          "routeKeys": {
-            "nxtPsection": "nxtPsection"
-          }
-        }
-      ]
-    }
-  ],
+  "dynamicRoutes": [],
   "staticRoutes": [
     {
       "page": "/",
@@ -82,6 +64,36 @@
       "regex": "^/home(?:/)?$",
       "routeKeys": {},
       "namedRegex": "^/home(?:/)?$"
+    },
+    {
+      "page": "/home/monitoring",
+      "regex": "^/home/monitoring(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/home/monitoring(?:/)?$"
+    },
+    {
+      "page": "/home/races",
+      "regex": "^/home/races(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/home/races(?:/)?$"
+    },
+    {
+      "page": "/home/workouts",
+      "regex": "^/home/workouts(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/home/workouts(?:/)?$"
+    },
+    {
+      "page": "/notifications",
+      "regex": "^/notifications(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/notifications(?:/)?$"
+    },
+    {
+      "page": "/set-up",
+      "regex": "^/set\\-up(?:/)?$",
+      "routeKeys": {},
+      "namedRegex": "^/set\\-up(?:/)?$"
     }
   ],
   "dataRoutes": [],

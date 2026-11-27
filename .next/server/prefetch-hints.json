@@ -70,20 +70,20 @@
       }
     }
   },
-  "/home/[section]": {
-    "hints": 16448,
+  "/home/monitoring": {
+    "hints": 49216,
     "slots": {
       "children": {
-        "hints": 16480,
+        "hints": 49248,
         "slots": {
           "children": {
-            "hints": 16480,
+            "hints": 49248,
             "slots": {
               "children": {
-                "hints": 16480,
+                "hints": 49248,
                 "slots": {
                   "children": {
-                    "hints": 16544,
+                    "hints": 49312,
                     "slots": null
                   }
                 }
@@ -95,6 +95,92 @@
     }
   },
   "/home": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49248,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49312,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "/home/races": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49248,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49248,
+                "slots": {
+                  "children": {
+                    "hints": 49312,
+                    "slots": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "/home/workouts": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49248,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49248,
+                "slots": {
+                  "children": {
+                    "hints": 49312,
+                    "slots": null
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "/notifications": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49248,
+        "slots": {
+          "children": {
+            "hints": 49248,
+            "slots": {
+              "children": {
+                "hints": 49312,
+                "slots": null
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "/set-up": {
     "hints": 49216,
     "slots": {
       "children": {
